@@ -9,3 +9,5 @@ i'm a linguistics student at the university of manchester with professional and 
 ## some work / いくつかの仕事
 * for my japanese dossier, i put together [a website written in japanese for the UoM trans campaign](https://github.com/mojanbo/uomtrans-jp)
 * i worked on a group research project looking at multilingual online language use, culminating in a [report](http://mlm.humanities.manchester.ac.uk/wp-content/uploads/2021/07/CMC_Lithuanian_Romanian_Facebook.pdf) published by [multilingual manchester](http://mlm.humanities.manchester.ac.uk/2021-reports/)
+* 日本語のドシエのために[日本語でＵｏＭトランスジェンダーキャンペーンについてページ](https://github.com/mojanbo/uomtrans-jp)を作った
+* 多言語のオンラインなコミュニケーションについてグループ調査プロジェクトを行い、[多言語マンチェスター](http://mlm.humanities.manchester.ac.uk/2021-reports/)が[そのレポート](http://mlm.humanities.manchester.ac.uk/wp-content/uploads/2021/07/CMC_Lithuanian_Romanian_Facebook.pdf)を発刊した
